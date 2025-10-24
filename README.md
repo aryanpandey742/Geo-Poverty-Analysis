@@ -1,12 +1,6 @@
 Geo-Spatial Analysis
 # 📊 Geo-Spatial Poverty Analysis in India
 
-**Author:** [Your Name]  
-**Program:** MSc Economics, University of Warwick  
-**Supervisor:** [Supervisor Name]  
-**Date:** [Month, Year]
-
----
 
 ## 🧠 Overview
 
